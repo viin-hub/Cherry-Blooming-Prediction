@@ -10,6 +10,7 @@ pip install scikit-learn
 
 python analysis.py
 
+# submission files
 cherry_predictions.csv is the predicted days of year for 4 sites.
 
 cherry_bloom_dates_predictions.csv is the predicted bloom dates (converted from days of year) for 4 sites.
